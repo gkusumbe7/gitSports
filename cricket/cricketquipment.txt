@@ -1,0 +1,19 @@
+Cricket Bat
+Cricket Ball
+Stumps and Bails
+Batting Pads
+Batting Gloves
+Cricket Helmet
+Thigh Guard
+Inner Thigh Guard
+Abdominal Guard (Box)
+Wicketkeeper's Gloves
+Wicketkeeper's Pads
+Wicketkeeping Helmet
+Cricket Bag
+Cricket Clothing (Jersey, Trousers, Cap)
+Cricket Shoes
+Cricket Sweater and/or Jacket
+Cricket Sunglasses (optional)
+Cricket Hat
+Cricket Accessories (Grips, Bat Oil, etc.)
